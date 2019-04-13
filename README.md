@@ -1,4 +1,6 @@
 # docs
 Documentation and project history
 
-### [wiki](https://github.com/slack-lackey/docs/wiki)
+### [Project wiki](https://github.com/slack-lackey/docs/wiki)
+### [Group agreement]()
+### [User stories]()
