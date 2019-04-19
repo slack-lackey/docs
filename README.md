@@ -118,4 +118,3 @@ This project is brought to you by these awesome contributors.
 
 Feel free to send us feedback on [file an issue](https://github.com/slack-lackey/docs/issues/new). Feature requests are always welcome. 
 
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/slack-lackey)!
