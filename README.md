@@ -17,16 +17,17 @@
 
 ## Table of Contents
 
-- [Links and resources](#Links and resources)
+
+- [Links and resources](#links and resources)
 - [Introduction](#introduction)
 - [Tools](#tools)
 - [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Moduls](#Moduls)
+- [Set up](#Set up)
+- [How to use](#How to use)
+- [UML](#uml)
 - [Documentations](#Documentations)
-
+- [Contributors](#contributors)
+- [Feedback](#feedback)
 
 
 ## Links and resources
@@ -39,10 +40,7 @@
 
 [![Build Status](https://travis-ci.com/slack-lackey/api-server.svg?branch=development)](https://travis-ci.com/slack-lackey/api-server)
 [![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
-[![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
+
 
 A tool for saving and sharing code to gist inside of slack channel. If you're looking for a way to save a code snippet in Slack, Slack-lackey is the best app for it.
 
@@ -109,7 +107,7 @@ In your workspace:
 
 ## Contributors
 
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
+This project is brought to you by these awesome contributors.
 
 <a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="./assets/whiteboards/billy-bot.png" height="40"></a>
 <a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="./assets/whiteboards/chris-bot.png" height="40"></a>
