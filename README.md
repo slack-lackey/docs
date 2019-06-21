@@ -109,10 +109,10 @@ In your workspace:
 
 This project is brought to you by these awesome contributors.
 
-<a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="./assets/whiteboards/billy-bot.png" height="40"></a>
-<a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="./assets/whiteboards/chris-bot.png" height="40"></a>
-<a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="./assets/whiteboards/erin-bot.png" height="40"></a>
-<a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="./assets/whiteboards/vanessa-bot.png" height="40"></a>
+<a href="https://github.com/billybunn" target="_blank"><img src="./assets/whiteboards/billy-bot.png" height="40"></a>
+<a href="https://github.com/ChristopherKnightMerritt" target="_blank"><img src="./assets/whiteboards/chris-bot.png" height="40"></a>
+<a href="https://github.com/etrainor" target="_blank"><img src="./assets/whiteboards/erin-bot.png" height="40"></a>
+<a href="https://github.com/Wei9023" target="_blank"><img src="./assets/whiteboards/vanessa-bot.png" height="40"></a>
 
 ## Feedback
 
