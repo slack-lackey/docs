@@ -18,12 +18,12 @@
 ## Table of Contents
 
 
-- [Links and resources](#links and resources)
+- [Links and resources](#links-and-resources)
 - [Introduction](#introduction)
 - [Tools](#tools)
 - [Features](#features)
-- [Set up](#Set up)
-- [How to use](#How to use)
+- [Set up](#Set-up)
+- [How to use](#How-tou-se)
 - [UML](#uml)
 - [Documentations](#Documentations)
 - [Contributors](#contributors)
